@@ -12,3 +12,4 @@ texttest>=4.2.1
 pyautogui>=0.9.53
 pyperclip>=1.7.0
 polib>=1.2.0
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
